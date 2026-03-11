@@ -1,0 +1,22 @@
+body{
+    font-family: Arial;
+    margin:0;
+    text-align:center;
+    background:#f4f4f4;
+    }
+    
+    nav{
+    background:black;
+    color:white;
+    padding:15px;
+    }
+    
+    .hero{
+    margin-top:100px;
+    }
+    
+    button{
+    padding:10px 20px;
+    font-size:16px;
+    cursor:pointer;
+    }
